@@ -1,0 +1,12 @@
+
+
+package com.mycompany.studentdemo;
+
+
+public class StudentDemo {
+
+    public static void main(String[] args) {
+     JFStudent jfs = new JFStudent();
+     jfs.show();
+    }
+}
